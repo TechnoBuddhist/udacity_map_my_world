@@ -1,5 +1,5 @@
-#BasketBoo May My World
-My project for the Udacity Robotics Software Engineer Nanodegree 2019 - Map My World.
+#Map My World
+My project for the Udacity Robotics Software Engineer Nanodegree 2019 - Map My World project.
 
 ## Getting Started
 You need [ROS](http://ros.org). If you aren't familiar with [ROS](http://ros.org) then this is probably no good to you whatsoever!
